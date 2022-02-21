@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-02-21-creating-a-second-blog-postwill-be-updated-soon-enough/",
+    "title": "Creating a second blog post...will be updated soon enough!",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Unknown",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-21",
+    "categories": [],
+    "contents": "\r\nThis is my second blog post\r\nIt will be updated in due time!\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-21T12:17:28-05:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2022-02-21-welcome/",
     "title": "Welcome",
     "description": "A short description of the post.",
