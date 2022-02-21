@@ -12,6 +12,7 @@ links:
     url: "mailto:pstangolis@gmail.com"
 output:
   postcards::jolla
+site: distill::distill_website
 ---
  
 Originally educated in Kinesiology and Health Sciences from York University 
