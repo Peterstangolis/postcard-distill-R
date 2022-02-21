@@ -11,16 +11,36 @@ links:
   - label: Email
     url: "mailto:pstangolis@gmail.com"
 output:
-  postcards::jolla
+  postcards::trestles
 site: distill::distill_website
 ---
  
-Originally educated in Kinesiology and Health Sciences from York University 
-working in the rehabilitation field for 15 years. Then discovered the wonderful
-world of online courses. I completed numerous online courses in data analytics
-and data science through Coursera, EDx, LinkedIn Learn and finally decided to 
-complete the Data Science Certificate program at Sheridan College completely online,
-while also working full time. 
+### EDUCATION 
+***  
 
-This page is a place to mark my progress with online courses, employment and other
-fun facts I care to share about me...
+##### HBSc | KINESIOLOGY & HEALTH SCIENCES   
+*[York](https://www.yorku.ca/health/kinesiology-health-science/) University*  **2003**  
+
+
+##### CERTIFICATE DATA SCIENCE  
+*[Sheridan](https://caps.sheridancollege.ca/products/data-science.aspx?gclid=Cj0KCQiAjc2QBhDgARIsAMc3SqRDjPhw80fvR4cm10bhCy9IHraLq2gt5KPq39LWKNexJnEs4fdyv90aAoF3EALw_wcB) College*  **2020**  
+
+
+<br>  
+
+### WORK EXPERIENCE 
+***
+
+##### STRIOWSKI & ASSOCIATES PHYSIOTHERAPY  
+*SEPT 2005 - SEPT 2020*
+
+
+##### NORTH YORK GENERAL HOSPITAL
+*SEPT 2004 - NOV 2010*
+
+
+
+
+
+
+

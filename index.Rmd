@@ -1,5 +1,5 @@
 ---
-title: "Peter Stangolis"
+title: "My Website"
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
@@ -13,3 +13,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+*Today's Date:*
+
+```{r}
+library(lubridate)
+d <- today() |> format('%a %b %d, %Y')
+print(d)
+
+```
