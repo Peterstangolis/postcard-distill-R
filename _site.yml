@@ -1,7 +1,7 @@
-name: "."
+name: "Peter's Website"
 title: "Peter Stangolis"
 description: |
-  Peter Stangolis
+  My Website
 output_dir: "_site"
 navbar:
   right:
