@@ -2190,15 +2190,28 @@ d-appendix {
   --title-size:       18px;
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
-  --hover-color:      yellow;
+  --hover-color:      #FF5447;
   --bkgd-color:       #391509;
 }
 
-.distill-site-footer {
+/*.distill-site-footer {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
-  --hover-color:      white;
+  --hover-color:      #FF5447;
   --bkgd-color:       #391509;
+}*/
+
+.distill-site-footer {
+  --width: 100%;
+  --overflow: hidden;
+  --box-sizing: border-box;
+  --z-index: 3;
+  --margin-top: 30px;
+  --padding-top: 30px;
+  --padding-bottom: 30px;
+  --text-align: center;
+  --hover-color: #FF5447;
+  --bkgd-color: #391509;
 }
 
 /*-- Additional custom styles --*/
@@ -2394,6 +2407,9 @@ d-appendix d-footnote-list a.footnote-backlink {
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
+<a class="logo">
+<img src="../../favicon.ico" alt="Logo"/>
+</a>
 <a href="../../index.html" class="title">Peter Stangolis</a>
 <input id="distill-search" class="nav-search hidden" type="text" placeholder="Search..."/>
 </div>
@@ -2440,8 +2456,15 @@ class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"><
 <!--radix_placeholder_appendices-->
 <div class="appendix-bottom"></div>
 <!--/radix_placeholder_appendices-->
-<!--radix_placeholder_navigation_after_body-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!--radix_placeholder_navigation_after_body--><html><body>
+<div class="distill-site-nav distill-site-footer">
+<p>(C) Copyright 2022 Peter Stangolis | Made with
+<a href="https://pkgs.rstudio.com/distill/reference/distill_website.html" title="Visit The Distill Site" target="_blank">Distill</a></p>
+</div>
 <!--/radix_placeholder_navigation_after_body-->
+</body></html>
+
 
 </body>
 
